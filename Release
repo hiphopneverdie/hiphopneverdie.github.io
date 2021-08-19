@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: repository of tweaks
 MD5Sum:
- c330e305726da0b7adbd85d1b4a07d68 12087 Packages
- 7cb13f5816c41fea58691fe20c411958 4879 Packages.bz2
+ a21e8119bf0e70084789a3b5af8651a3 11938 Packages
+ ad5b757f4121851a5776ccc286efc5c4 4844 Packages.bz2

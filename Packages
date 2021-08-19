@@ -64,14 +64,13 @@ Maintainer: akusio <akusio-report@neko2.net>
 Installed-Size: 276
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/VoNgocBang.backgrounderaction12_0.1.0_iphoneos-arm.deb
-Size: 17086
-MD5sum: 37b0f14fab739d09b505c973441418eb
-SHA1: 3394a15a602e15a5822a87ff91a090811d6946ee
-SHA256: 60ec982280f25d41b757026fe985b0e3ad6c10b4099e25c6ac120db68f688c72
-SHA512: 7747f24e7dfaa8554f82e60b556bab352f4b4a7e66121e9a449977351610629c11e80e9a93009b7b07e86c33cd6d29a90c651cdfc8384f452fddc83134c49f24
+Size: 17050
+MD5sum: b5343ab124420dcc8fa4f7a4c13dac0c
+SHA1: 0ae82607ab358a9233743cd2763c816b21df092e
+SHA256: b1cc78d29a5a7cb3e582c6c7b8177c2b099d551114d4261456d5ec3d57446732
+SHA512: 9015043662be3aca618cdcec53195dc0cbb37537c4f57d0caeb8057ca38ecae1f3301f90b001387095cc4149f8c132f42f0fe3792511977a1b2bf02b82ef7c4b
 Description: Add "Toggle Background Mode" action to ControlCenter.
 Name: BackgrounderAction for CCSupport
-Depiction: https://akusio.github.io/descriptions/backgrounderaction12/index.html
 Author: akusio <akusio-report@neko2.net>
 
 Package: VoNgocBang.ccsupport
@@ -185,14 +184,13 @@ Maintainer: akusio <akusio-report@neko2.net>
 Installed-Size: 208
 Depends: mobilesubstrate, VoNgocBang.backgrounderaction11 | VoNgocBang.backgrounderaction12
 Filename: ./debs/VoNgocBang.milkyway_0.1.4beta_iphoneos-arm.deb
-Size: 53910
-MD5sum: 0d96230047fe9b1ca43435e9f6cd79d9
-SHA1: eff8146abb20e4c560daa5fe2833c6c2f80f64aa
-SHA256: 8360bbc9a6edadf49d5e0ae0815420a92b3b65cf0e0683701c568ef85de5be4a
-SHA512: d12ab2097397655acd269ba54e783bc3fa58f7b0d5ae71d4d212ef67544b994e5f144405d347a43a4363fc19e6abe073194d652d9f8dfd0121fc59eae3097610
+Size: 53872
+MD5sum: fbd5a47f4d8de4d22d77a01af061cf84
+SHA1: df6a0bae36cd4ae5acfdc0711ed1d06337029f2b
+SHA256: 6d0c2d4ea329ab2f2c59d999c78df712ddc10d1b52a12d910da6580a6946ddb8
+SHA512: f64a23b9955b02441e9fe9a651a7b6ca95aac94f812f52dde1a20f113f355e360c829436bbe04230c95fb8fba8bba1c615e6e05ea9fe1206c58fbab622452c89
 Description: multitasking for iOS.
 Name: MilkyWay
-Depiction: http://akusio.github.io/descriptions/milkyway/index.html
 Author: akusio <akusio-report@neko2.net>
 
 Package: VoNgocBang.powerselector11
