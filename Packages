@@ -185,12 +185,12 @@ Installed-Size: 376
 Depends: mobilesubstrate, applist, preferenceloader
 Filename: ./debs/VoNgocBang.milkyway2_0.2.1_iphoneos-arm.deb
 Size: 84518
-MD5sum: bf5316ab9f713213c40ff38c2e2aaed1
-SHA1: dc16f3087551e32f131495149efa977d118e19f6
-SHA256: a7d16ce2e41593700e09944986b4cd73ea32fbdd11fd78085d6c06cc2d7e1f03
-SHA512: 970cc0f8fcc86f3c3629199ccae771c013e436d5b0dbb31aacf5076d0cffb9f3a139ae068c19cda6979c9730a4b9b14fdcc1ef08b3f178a030eea792c8d47df8
+MD5sum: abae1f5202e06bf6e6a0c931ea089078
+SHA1: 447d17bb639814241f07bef2fe8e09efa0c67ba9
+SHA256: 6520f6fa1be99396a259590b7c7191a562882359b673c2dc53d804ae8b92e1ff
+SHA512: 9646189b66170e37043dcb2bb72e74fa00c8981dfb2f1140d76e3fad388814dba549f608b9368b8187b94a7d427c8a33794d19453a77c233ed74b06cbf098006
 Description: MilkyWay for iOS 12, 13 14
-Name: MilkyWay
+Name: MilkyWayy
 Author: akusio <akusio-report@neko2.net>
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 
