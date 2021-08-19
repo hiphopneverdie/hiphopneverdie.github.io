@@ -183,13 +183,13 @@ Version: 0.1.4beta
 Section: Tweaks
 Maintainer: akusio <akusio-report@neko2.net>
 Installed-Size: 208
-Depends: mobilesubstrate, jp.akusio.backgrounderaction11 | jp.akusio.backgrounderaction12
+Depends: mobilesubstrate, VoNgocBang.backgrounderaction11 | VoNgocBang.backgrounderaction12
 Filename: ./debs/VoNgocBang.milkyway_0.1.4beta_iphoneos-arm.deb
-Size: 53912
-MD5sum: be6d19bdfad0d21994672400ef90a572
-SHA1: bc5863664275f8ddd75ee2210ea180066048440c
-SHA256: 37aae1dd2d74a05b32aa973ce66dbf6efd2108a79ca06cbda41a9253abce97a6
-SHA512: b48b151195df95cedffe9ab978819e9900cd8c501bb6d4089388e152b284c3fe3f414c7915af51021d4dd4c9a73e370ef8e97cc45c92850d20eb8857aaf549c6
+Size: 53910
+MD5sum: 0d96230047fe9b1ca43435e9f6cd79d9
+SHA1: eff8146abb20e4c560daa5fe2833c6c2f80f64aa
+SHA256: 8360bbc9a6edadf49d5e0ae0815420a92b3b65cf0e0683701c568ef85de5be4a
+SHA512: d12ab2097397655acd269ba54e783bc3fa58f7b0d5ae71d4d212ef67544b994e5f144405d347a43a4363fc19e6abe073194d652d9f8dfd0121fc59eae3097610
 Description: multitasking for iOS.
 Name: MilkyWay
 Depiction: http://akusio.github.io/descriptions/milkyway/index.html
