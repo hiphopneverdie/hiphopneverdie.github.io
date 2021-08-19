@@ -176,22 +176,23 @@ Depiction: https://cydia.ichitaso.com/depiction/kernbypass.html
 dev: akusio, Misty, ichitaso, XsF1re
 Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
 
-Package: VoNgocBang.milkyway
+Package: VoNgocBang.milkyway2
 Architecture: iphoneos-arm
-Version: 0.1.4beta
+Version: 0.2.1
 Section: Tweaks
-Maintainer: akusio <akusio-report@neko2.net>
-Installed-Size: 208
-Depends: mobilesubstrate, VoNgocBang.backgrounderaction11 | VoNgocBang.backgrounderaction12
-Filename: ./debs/VoNgocBang.milkyway_0.1.4beta_iphoneos-arm.deb
-Size: 53872
-MD5sum: fbd5a47f4d8de4d22d77a01af061cf84
-SHA1: df6a0bae36cd4ae5acfdc0711ed1d06337029f2b
-SHA256: 6d0c2d4ea329ab2f2c59d999c78df712ddc10d1b52a12d910da6580a6946ddb8
-SHA512: f64a23b9955b02441e9fe9a651a7b6ca95aac94f812f52dde1a20f113f355e360c829436bbe04230c95fb8fba8bba1c615e6e05ea9fe1206c58fbab622452c89
-Description: multitasking for iOS.
+Maintainer: VÕ NGỌC BẰNG
+Installed-Size: 376
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/VoNgocBang.milkyway2_0.2.1_iphoneos-arm.deb
+Size: 84518
+MD5sum: bf5316ab9f713213c40ff38c2e2aaed1
+SHA1: dc16f3087551e32f131495149efa977d118e19f6
+SHA256: a7d16ce2e41593700e09944986b4cd73ea32fbdd11fd78085d6c06cc2d7e1f03
+SHA512: 970cc0f8fcc86f3c3629199ccae771c013e436d5b0dbb31aacf5076d0cffb9f3a139ae068c19cda6979c9730a4b9b14fdcc1ef08b3f178a030eea792c8d47df8
+Description: MilkyWay for iOS 12, 13 14
 Name: MilkyWay
 Author: akusio <akusio-report@neko2.net>
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 
 Package: VoNgocBang.powerselector11
 Architecture: iphoneos-arm
