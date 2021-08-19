@@ -1,0 +1,205 @@
+Package: VoNgocBang.youtubelite
+Name: YoutubeLite
+Depends:mobilesubstrate, preferenceloader
+Version: 0.9.5
+Size: 89550
+Architecture: iphoneos-arm
+Description:  
+- Tính năng:
+ • Chặn quảng cáo 
+ • Phát lại nền 
+ • Ẩn nút truyền 
+ • Ấn nút tải xuống 
+ • Tắt cửa sổ bật lên 
+ • Thay đối kiếu MiniPlayer 
+ • Tắt nhấn đúp 
+ • Mở rộng Menu chia sẻ 
+ • Tắt tự động phát 
+ • Chế độ Ipad + Hỗ trợ youtube phiên bản mới nhất!
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
+Author: mhdev
+Section: Tweaks
+MD5sum: 2523102c2bc51ea70e4a63f6ccdb4e6e
+SHA1sum: 045cb23aeb2af006aecfffa1f469ca60533f6ad5
+SHA256sum: ef7327c4e3086da54f7a970b6d0945e46ff72afc043cb74b2591516b423770a7
+Filename: ./debs/VoNgocBang.youtubelite_0.9.5_iphoneos-arm.deb
+
+Package: VoNgocBang.milkyway
+Name: MilkyWayy
+Depends: mobilesubstrate, VoNgocBang.backgrounderaction11 | VoNgocBang.backgrounderaction12
+Version: 0.1.4beta
+Size: 53912
+Architecture: iphoneos-arm
+Description:  multitasking for iOS. Support IOS >=12
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
+Author: akusio
+Section: Tweaks
+MD5sum: be6d19bdfad0d21994672400ef90a572
+SHA1sum: bc5863664275f8ddd75ee2210ea180066048440c
+SHA256sum: 37aae1dd2d74a05b32aa973ce66dbf6efd2108a79ca06cbda41a9253abce97a6
+Filename: ./debs/VoNgocBang.milkyway_0.1.4beta_iphoneos-arm.deb
+
+Package: VoNgocBang.backgrounderaction12
+Name: BackgrounderAction for CCSupport
+Depends: mobilesubstrate, com.opa334.ccsupport
+Version: 0.1.0
+Size: 17086
+Architecture: iphoneos-arm
+Description:  Add "Toggle Background Mode" action to ControlCenter.
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
+Author: akusio
+Section: Tweaks
+MD5sum: 37b0f14fab739d09b505c973441418eb
+SHA1sum: 3394a15a602e15a5822a87ff91a090811d6946ee
+SHA256sum: 60ec982280f25d41b757026fe985b0e3ad6c10b4099e25c6ac120db68f688c72
+Filename: ./debs/VoNgocBang.backgrounderaction12_0.1.0_iphoneos-arm.deb
+
+Package: VoNgocBang.safariplus
+Name: SafariPlusVH
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Version: 1.7.12
+Size: 1876164
+Architecture: iphoneos-arm
+Description:  Various enhancements to Safari!
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
+Author: opa334
+Section: Tweaks
+MD5sum: 6a40f3fb87a11210ee1c4306c356c8fd
+SHA1sum: 3e97d3a1208016e91db0c7232d48b94daba7fc9d
+SHA256sum: 3b7abeefbd6fe8edeea9733a68333409393fd88d91b4afe3a8dfeaba16d09d29
+Filename: ./debs/VoNgocBang.safariplus_1.7.12_iphoneos-arm.deb
+
+Package: VoNgocBang.wifikey
+Name: KeyWifi
+Version: 1.8
+Size: 35862 
+Architecture: iphoneos-arm
+Description:  View and share WiFi passwords
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
+Author: fahlnbg
+Section: Utilities
+MD5sum: aa7bfb82fbe8f7b764e781ad9f27e0d1
+SHA1sum: 477287dd056e002f8d84c372a85be018cc9265de
+SHA256sum: 2af8de056fda6365304bae236e046a4832bf998ac681988dbbe35a16fb48368d
+Filename: ./debs/VoNgocBang.KeyWiFi.deb
+
+Package: VoNgocBang.SemiRestore
+Name: SemiRestore 11-14
+Version: 1.1.6
+Size: 54484
+Architecture: iphoneos-arm
+Description:  Xoá Jailbreak 
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
+Author: Pwn20wnd
+Section: Utilities
+MD5sum: 7776320004502c5d158d15337e6c075f
+SHA1sum: ce52a65aeba2d9cefd74d84fb8c9cf2467b99b8b
+SHA256sum: c7fb5f2c0ad60a0335832bd19e855756e8e5e13893406cad22844f5b1a061717
+Filename: ./debs/VoNgocBang.SemiRestore_1.1.6.deb
+
+Package: VoNgocBang.iosgodsiapcracker
+Name: iOSGods iAP Cracker
+Depends: mobilesubstrate
+Version: 1.0-2+debug
+Size: 17616
+Architecture: iphoneos-arm
+Description:  Mua iAP miễn phí cho một số ứng dụng và trò chơi, nó không luôn hoạt động. Bật tinh chỉnh bên trong Cài đặt iOS. Tinh chỉnh này được thực hiện bởi @Laxus dành cho iOSGods.com, các thiết bị A12 / A13 được hỗ trợ
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
+Author: Laxus
+Section: Tweaks
+MD5sum: 733aee8d4a75a21d3af8981d4edc5d98
+SHA1sum: 1b634f09bea15abc10337ca44d992ed4eb75b17d
+SHA256sum: d72eebe7c24e9d1bdcb7c8d7b9942dc5e7e72285d63f3c0990049bdfae8be205
+Filename: ./debs/VoNgocBang.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
+
+Package: VoNgocBang.crackerxi
+Name: CrackerXI
+Depends: firmware (>= 11.0)
+Version: 1.1.16
+Size: 9960906
+Architecture: iphoneos-arm
+Description:  Trích IPA
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
+Author: c0pyn1nja
+Section: System
+MD5sum: f2f102ae01fa09fb580a54e4b7f99c5c
+SHA1sum: 4761b08c02fce4593b10d7bad7af0a262cf7df89
+SHA256sum: ae746a5b800b6c909057755c5902e5da92c7f1cdb68ba1128fb3ddb2d2e79472
+Filename: ./debs/VoNgocBang.crackerxi_1.1.16_iphoneos-arm.deb
+
+Package: VoNgocBang.copylog
+Name: CopyLog
+Depends: mobilesubstrate, preferenceloader
+Version: 1.5.3
+Size: 2122388
+Architecture: iphoneos-arm
+Description:  Quản lý lịch sử Clipboard cho iOS!
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
+Author: TomT000
+Section: Tweaks
+MD5sum: 6b4dabed6a0c859edf5424155a368dd3
+SHA1sum: f492098d5207efb22f5cb6270712ea7d940d2cfd
+SHA256sum: 408c75f5644ddec762859bf5a9295c31daf29ad6e8f291171b7f6b5b733b468c
+Filename: ./debs/5VoNgocBang.copylog_1.5.3k_iphoneos-arm.deb
+
+Package: VoNgocBang.kernbypass-unofficial
+Name: KernBypass (Unofficial)
+Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
+Depends: mobilesubstrate, preferenceloader
+Version: 0.0.5
+Size: 291290
+Architecture: iphoneos-arm
+Description:  Bỏ qua phát hiện Jailbreak
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
+Author: akusio
+Section: System
+MD5sum: bb7dbec8d39edeb6311a9fe12d7eea9f
+SHA1sum: 6244ac2e516f5ac3d399cc284dc44b1c58acb43e
+SHA256sum: 0441b619c88a0bc4e1ca0ce4837858c29b6dec34ed232c30ad7cbcac425a7009
+Filename: ./debs/VoNgocBang.kernbypass-unofficial_0.0.5_iphoneos-arm.deb
+
+Package: VoNgocBang.appdata
+Name: AppData
+Depends: firmware (>= 11.0), mobilesubstrate, 
+Version: 1.3.6
+Size: 269348
+Architecture: iphoneos-arm
+Description:  Xem và Quản lý Dữ liệu Ứng dụng từ Màn hình chính của bạn
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
+Author: Fouad Raheb
+Section: Tweaks
+MD5sum: b2471151a7d29afc05536c37787585b1
+SHA1sum: 22f4f080c943871f2994d8ceb4c383bfba935c29
+SHA256sum: ed8f2e299ec76188b5f5940585c7ef1cc81c5beaffb66dca9abe411bffb0073a
+Filename: ./debs/VoNgocBang.appdata_1.3.6_iphoneos-arm.deb
+
+Package: VoNgocBang.ccsupport
+Name: CCSupport
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Version: 1.3.5
+Size: 88536
+Architecture: iphoneos-arm
+Description:  Support tweak for CC modules!
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
+Author: opa334
+Section: Tweaks
+MD5sum: 8010505b92d66274dfa642a59d45f747
+SHA1sum: 7464d26e5aade7b51a7beee1fcf24e9f1c59bf0c
+SHA256sum: 567ab4336b27ef33c1e8e18e4d0a4107242932ce0f77b75acfbe92bdc17bf022
+Filename: ./debs/VoNgocBang.ccsupport_1.3.5_iphoneos-arm.deb
+
+Package: VoNgocBang.powerselector11
+Name: PowerSelector (iOS 11 to 14)
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, 
+Version: 1.3.3
+Size: 386376
+Architecture: iphoneos-arm
+Description:  Thêm các tác vụ Respring, Ldrestart, UIcache,...Vào ControlCenter
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
+Author: ichitaso
+Section: Utilities
+MD5sum: c9b797701d8b21e3e7072a735e3fbc47
+SHA1sum: 0f4ab420a4cf1d5d5e0bbc7fb7cea80561ce3fb7
+SHA256sum: c753ba66611cb15ce3e0dac1f4bb9e8c746d049374ac01f4b133f2fd800a52d0
+Filename: ./debs/VoNgocBang.powerselector11_1.3.3_iphoneos-arm.deb
