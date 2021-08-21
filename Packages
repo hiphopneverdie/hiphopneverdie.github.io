@@ -56,6 +56,25 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 
+Package: VoNgocBang.appstore
+Architecture: iphoneos-arm
+Version: 0.9.16-2
+Priority: optional
+Section: Tweaks
+Maintainer: VÕ NGỌC BẰNG
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/VoNgocBang.appstore_0.9.16-2_iphoneos-arm.deb
+Size: 3010136
+MD5sum: 3662fa8728f09263ad110c44fcb724ff
+SHA1: 871b49dc1321e63886735b52f47ee050383468ae
+SHA256: e23affceadae6d7d81dbeeca700f0957fa5f94ea409c4a3bd3b9579bfcbed972
+SHA512: b6e266bced3a63e520e8f06c263936b4b97f53c1121b59659a0dcda8e8b8e7817c1c32ae82c20777939684c6a2f757b5fc76edf8b4edda001d9d5281b8a685e8
+Description: Hạ cấp ứng dụng. Hỗ trợ IOS 11-14.9
+Name: AppStore++
+Author: CokePokes
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: VoNgocBang.backgrounderaction12
 Architecture: iphoneos-arm
 Version: 0.1.0
