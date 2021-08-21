@@ -60,15 +60,15 @@ Package: VoNgocBang.backgrounderaction12
 Architecture: iphoneos-arm
 Version: 0.1.0
 Section: Tweaks
-Maintainer: akusio <akusio-report@neko2.net>
+Maintainer: VÕ NGỌC BẰNG <vongocbang4105@gmail.com>
 Installed-Size: 276
-Depends: mobilesubstrate, com.opa334.ccsupport
+Depends: mobilesubstrate, VoNgocBang.ccsupport
 Filename: ./debs/VoNgocBang.backgrounderaction12_0.1.0_iphoneos-arm.deb
-Size: 17050
-MD5sum: b5343ab124420dcc8fa4f7a4c13dac0c
-SHA1: 0ae82607ab358a9233743cd2763c816b21df092e
-SHA256: b1cc78d29a5a7cb3e582c6c7b8177c2b099d551114d4261456d5ec3d57446732
-SHA512: 9015043662be3aca618cdcec53195dc0cbb37537c4f57d0caeb8057ca38ecae1f3301f90b001387095cc4149f8c132f42f0fe3792511977a1b2bf02b82ef7c4b
+Size: 17090
+MD5sum: 85c139878b489c1f6e99e58a9b1342e8
+SHA1: ea1c2b03821421f1dd623944e32b0534e968c62d
+SHA256: b7a629a25206ef0d6a6d4b2887afe5630701c6809a2c7195b9e3af6d56bb8e04
+SHA512: bb93cdcbef62fe2d5e99cacc1dbecd4056486fd4ccc600a350af35ff008b12f9ef932c7c9853293ee4617e6cef1820b41e2fed057a47f76438eaffe85a24203e
 Description: Add "Toggle Background Mode" action to ControlCenter.
 Name: BackgrounderAction for CCSupport
 Author: akusio <akusio-report@neko2.net>
@@ -176,23 +176,21 @@ Depiction: https://cydia.ichitaso.com/depiction/kernbypass.html
 dev: akusio, Misty, ichitaso, XsF1re
 Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
 
-Package: VoNgocBang.milkyway2
+Package: VoNgocBang.milkyway
 Architecture: iphoneos-arm
-Version: 0.2.1
+Version: 0.1.4beta
 Section: Tweaks
-Maintainer: VÕ NGỌC BẰNG
-Installed-Size: 376
-Depends: mobilesubstrate, applist, preferenceloader
-Filename: ./debs/VoNgocBang.milkyway2_0.2.1_iphoneos-arm.deb
-Size: 84518
-MD5sum: abae1f5202e06bf6e6a0c931ea089078
-SHA1: 447d17bb639814241f07bef2fe8e09efa0c67ba9
-SHA256: 6520f6fa1be99396a259590b7c7191a562882359b673c2dc53d804ae8b92e1ff
-SHA512: 9646189b66170e37043dcb2bb72e74fa00c8981dfb2f1140d76e3fad388814dba549f608b9368b8187b94a7d427c8a33794d19453a77c233ed74b06cbf098006
-Description: MilkyWay for iOS 12, 13 14
-Name: MilkyWayy
+Installed-Size: 208
+Depends: mobilesubstrate, VoNgocBang.backgrounderaction12
+Filename: ./debs/VoNgocBang.milkyway_0.1.4beta_iphoneos-arm.deb
+Size: 53858
+MD5sum: 6c78544070b4fbb4e4e6b94cadf0a9b5
+SHA1: 5e48caec028fdb1ccbbc20b8f66f5421de5c8134
+SHA256: 3e0368cebbe9d7c78585cfe37f4a4e0a75716b3f60120dfa03d5220d0a5f8e5e
+SHA512: 661935c17b824643fddd55d4ce789c780dc68fca9ed2818b2a8005ccd750b2db33be3a8070fbe34eb36a37b1afed425a18bbe85535cd441306079aa5e5c3e218
+Description: multitasking for iOS12
+Name: MilkyWay ios12
 Author: akusio <akusio-report@neko2.net>
-Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 
 Package: VoNgocBang.powerselector11
 Architecture: iphoneos-arm
