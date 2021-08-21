@@ -65,15 +65,14 @@ Maintainer: VÕ NGỌC BẰNG
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Filename: ./debs/VoNgocBang.appstore_0.9.16-2_iphoneos-arm.deb
-Size: 3010136
-MD5sum: 3662fa8728f09263ad110c44fcb724ff
-SHA1: 871b49dc1321e63886735b52f47ee050383468ae
-SHA256: e23affceadae6d7d81dbeeca700f0957fa5f94ea409c4a3bd3b9579bfcbed972
-SHA512: b6e266bced3a63e520e8f06c263936b4b97f53c1121b59659a0dcda8e8b8e7817c1c32ae82c20777939684c6a2f757b5fc76edf8b4edda001d9d5281b8a685e8
+Size: 3010106
+MD5sum: f493695134b6ac0de04ffb8685b2d4b0
+SHA1: e6636cb580d5340523b1779ca6c5e5ea3e4fce10
+SHA256: 630b247906b3e9f76a7fd9b020078384576ef487138e43e91968f0a8f1cad9bb
+SHA512: 708a71045d64b709102a7af97146ff9dcab3fab24c4c6ca6b4312edf1d5f6c778b2e59e26fd4fa5e9ad6b933c89b8df5bfd1ee433331cf5b712f4cc915a3189a
 Description: Hạ cấp ứng dụng. Hỗ trợ IOS 11-14.9
 Name: AppStore++
 Author: CokePokes
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: VoNgocBang.backgrounderaction12
 Architecture: iphoneos-arm
